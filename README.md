@@ -9,6 +9,8 @@ This repository contains an application project of game created in UNITY
 
 The game design recreates the old cult game Pong
 
+This project was created in the class in the [UWM]{http://www.uwm.edu.pl/}
+
 ## Downloads
 There are three ways to download the repository:
 
