@@ -1,4 +1,4 @@
-# Projektowanie gier w środowisku UNITY
+# Pong clone
 
 ## Table of Contents
  * [Brief description of the repository](#brief-description-of-the-repository)
